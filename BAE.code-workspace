@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Intro_Web_Develop"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BAE_PROJ",
+		"files.associations": {
+			"xstring": "cpp"
+		}
+	}
+}
