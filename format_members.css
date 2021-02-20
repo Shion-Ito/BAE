@@ -385,7 +385,7 @@ hr{
 
 }
 
-.anh{
+.haeram {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     /* margin-left: 5%;
@@ -395,7 +395,66 @@ hr{
     color: black;
     border: 5px solid rgb(93, 12, 29);
     display: inline-block;
+}
 
+.ana {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    border: 5px solid rgb(93, 12, 29);
+    display: inline-block;
+}
+
+.minji {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    border: 5px solid rgb(93, 12, 29);
+    display: inline-block;
+}
+
+.kayla {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    border: 5px solid rgb(93, 12, 29);
+    display: inline-block;
+}
+
+.anh {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    border: 5px solid rgb(93, 12, 29);
+    display: inline-block;
+}
+
+.camel {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    border: 5px solid rgb(93, 12, 29);
+    display: inline-block;
 }
 
 
@@ -408,7 +467,4 @@ hr{
 .features {
     text-align: center;
     margin-bottom: 20px;
-
-
 }
-
